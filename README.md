@@ -9,7 +9,7 @@
 
 This project is a University Management System with three user panels: Admin, Faculty, and Student. The system is built using PHP, HTML, CSS, JavaScript, and MySQL.
 
-![Desktop Demo](https://github.com/hm-abdus-salam/abdus-salam-ums/blob/main/img/demo.png?raw=true "Desktop Demo")
+![Desktop Demo](https://github.com/hm-abdus-salam/abdus-salam-ums_home/blob/main/demo1.png?raw=true "Desktop Demo")
 
 ## Features
 
@@ -89,7 +89,7 @@ This project is a University Management System with three user panels: Admin, Fa
 
 ## Watch Video Tutorial
 
-[![Watch Video](https://github.com/hm-abdus-salam/abdus-salam-ums/blob/main/img/demo.png?raw=true "Play")](https://www.youtube.com/shorts/DfTuu9X0qmI)
+[![Watch Video](https://github.com/hm-abdus-salam/abdus-salam-ums_home/blob/main/demo1.png?raw=true "Play")](https://www.youtube.com/shorts/DfTuu9X0qmI)
 
 
 ## Thank you for reading
